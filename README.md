@@ -1,3 +1,3 @@
 # odullu-cark
-çark sistemi php java script
+çark sistemi html java script
 ez script isteyen editleyip kullanabilir :)))
